@@ -20,12 +20,12 @@ vmctl.exe [options] [API call] [--]
 ###### Interactive mode Commands:
     exit, quit			Exit the program
     help				Show this help
-    verbose			Toggle verbose mode
+    verbose				Toggle verbose mode
     debug				Toggle debug mode
     interactive			Enter interactive mode
     <API call>[=value]		Get/Set the specified API entry\n
 
 ###### Examples:
-     Strip[0].Gain=-1		Set the gain of the first strip to -1
-     Strip[0].Label		Get the label of the first strip
-     Strip[0].Label=MyStrip	Set the label of the first strip to MyStrip
+     Strip[0].Gain=-1		  Set the gain of the first strip to -1
+     Strip[0].Label			  Get the label of the first strip
+     Strip[0].Label=MyStrip		  Set the label of the first strip to MyStrip
