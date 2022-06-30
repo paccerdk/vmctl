@@ -1,4 +1,4 @@
-# vmctl
+# VoiceMeeter Control
 Command line interface for VoiceMeeter API requests
 
 API documentation can be found [here](https://github.com/vburel2018/Voicemeeter-SDK/blob/main/VoicemeeterRemoteAPI.pdf)
